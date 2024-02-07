@@ -1,0 +1,9 @@
+{
+	"name": "setvar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "92508089-496c-4243-837d-2fef3f3b94e2",
+		"tenantId": "abc7b3b4-0474-4c36-8f68-7f18035fed58"
+	}
+}
