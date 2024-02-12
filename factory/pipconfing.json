@@ -1,0 +1,9 @@
+{
+	"name": "pipconfing",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "212366c6-d74a-4a44-a9e6-a728a5000981",
+		"tenantId": "abc7b3b4-0474-4c36-8f68-7f18035fed58"
+	}
+}
