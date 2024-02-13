@@ -1,0 +1,9 @@
+{
+	"name": "pipeGer",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1cc8b22c-0bc3-4e4f-9b14-3a2b38b3ddb5",
+		"tenantId": "abc7b3b4-0474-4c36-8f68-7f18035fed58"
+	}
+}
