@@ -1,0 +1,9 @@
+{
+	"name": "Snowpipe-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "790d5e93-7763-4395-bcb3-00b07389d6fe",
+		"tenantId": "abc7b3b4-0474-4c36-8f68-7f18035fed58"
+	}
+}
