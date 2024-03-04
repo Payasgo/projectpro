@@ -1,6 +1,0 @@
-{
-	"name": "SHRintegrationRuntime",
-	"properties": {
-		"type": "SelfHosted"
-	}
-}
